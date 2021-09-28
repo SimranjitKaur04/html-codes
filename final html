@@ -1,0 +1,63 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <title>Cars to KNOW!!!!</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <br>
+  </head>
+  <body>
+    <br>
+    <!-- Top navigation -->
+<div class="topnav">
+
+  <!-- Centered link -->
+  <div class="topnav-centered">
+    <a href="#home" class="active">Home</a>
+  </div>
+
+  <!-- Left-aligned links (default) -->
+  <a href="#news">Cars to Know!!!</a>
+
+  <!-- Right-aligned links -->
+  <div class="topnav-right">
+    <a href="#search">Search</a>
+    <a href="#about">Models</a>
+    <a href="#about">Contact Us</a>
+  </div>
+
+</div>
+     <img src="https://cdn.motor1.com/images/mgl/mrz1e/s1/coolest-cars-feature.webp" width="450" height="400" alt="Paris" class="center">
+     </img>
+     <p class="special">"Cars to KNOW!!"" is one the best websites for the one who is looking forward to buy a car at affordable prices and desires to get the maximum of features out of it.</p>
+     <p class="special">We bring a complete range of cars in India. Search cars by applying filters such as by price range, by transmission type, by bodytype, by brand, by engine cc, and more features. Also, stay updated with upcoming cars in India, compare two-wheelers in your price range and stay tuned to the latest car news.</p>
+     <table class="tcenter" border="2">
+     <thead>
+     <div>
+     <hr>
+     <p class="heading">Affordable Cars</p>
+     </div>
+     <tr>
+     <th>Cars</th>
+     <th>Prices in India</th>
+     </tr>
+     </thead>
+     <tbody>
+     <tr>
+     <td>Tata Tiago</td>
+     <td>4.99L to 7L</td>
+     </tr>
+     <tr>
+     <td>Maruti Wagon R</td>
+     <td>4.93 to 6.9L</td>
+     </tr>
+     <tr>
+     <td>Renault KWID</td>
+     <td>4.05L to 5.05L</td>
+     </tr>
+     </tbody>
+     </table>
+     <footer>
+   <p>Copyright &copy; </p>
+   <p>Made with &hearts; in India </p>
+</body>
+</html>
