@@ -1,0 +1,62 @@
+.navbar-brand
+{
+    color:black;
+    margin:100px;
+    text-align: centre;
+    background-color:white;
+    padding:30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.special{display:inline;
+    margin:100px;
+    color:black;
+    text-align: centre;
+    background-color:white;
+    padding:30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-link 
+{
+    color:black;
+    text-align: centre;
+    background-color:white;
+    padding:30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-item{
+    display:inline;
+    margin:100px;
+    color:black;
+    text-align: centre;
+    background-color:white;
+    padding:30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img
+{
+background-color: white;
+margin-top: auto;
+margin-bottom: auto;
+text-align: centre;
+}
+div{
+    color:black;
+    background-color: white;
+    padding:20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.col{
+    color:black;
+    text-align:center;
+    background-color: white;
+    padding:10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    background-color: white;
+    colour:black;
+    text-align: center;
+    padding:5px;
+}
