@@ -1,0 +1,29 @@
+h1
+{
+    color:white;
+    text-align: centre;
+    background-color: black;
+    padding:30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img
+{
+background-color: white;
+margin-top: auto;
+margin-bottom: auto;
+text-align: centre;
+}
+.special{
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.heading{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 5px;
+}
